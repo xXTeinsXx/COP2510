@@ -1,5 +1,3 @@
-Here's an improved README file with descriptions for each project:
-
 ## Programming Concepts I Projects
 
 This repository contains a collection of programs I created for my Programming Concepts I class. The projects cover a variety of topics, including:
